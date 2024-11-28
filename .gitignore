@@ -1,0 +1,16 @@
+*env/
+*.env
+*__pycache__/
+*.pyc
+*migrations/
+results/*
+#ffmlp/dependencies/*
+#freqencoder/dependencies/*
+workspace/*
+yolov8l-seg.pt/*
+yolov8s-seg.pt/*
+yolov8x-seg.pt/*
+EXTRA/*
+
+yolov8l-seg.pt
+yolov8x-seg.pt

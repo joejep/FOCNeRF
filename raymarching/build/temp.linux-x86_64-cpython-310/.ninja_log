@@ -1,0 +1,5 @@
+# ninja log v5
+0	19455	1729348885913410599	/home/eiyike/3D_RECONSTRUCTION/torch-ngp/raymarching/build/temp.linux-x86_64-cpython-310/home/eiyike/3D_RECONSTRUCTION/torch-ngp/raymarching/src/bindings.o	7748e18c9a7ba99b
+1	43939	1729348910427600178	/home/eiyike/3D_RECONSTRUCTION/torch-ngp/raymarching/build/temp.linux-x86_64-cpython-310/home/eiyike/3D_RECONSTRUCTION/torch-ngp/raymarching/src/raymarching.o	224c4c5593ea99ed
+3	18387	1729359079764689060	/home/eiyike/FASTER_ALL_RAYS/raymarching/build/temp.linux-x86_64-cpython-310/home/eiyike/FASTER_ALL_RAYS/raymarching/src/bindings.o	5228af878d636ddf
+4	41099	1729359102479800970	/home/eiyike/FASTER_ALL_RAYS/raymarching/build/temp.linux-x86_64-cpython-310/home/eiyike/FASTER_ALL_RAYS/raymarching/src/raymarching.o	682a424d97d6e469

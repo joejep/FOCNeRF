@@ -7,7 +7,7 @@ neural network inspired by Instant Neural Graphics Primitives[instant-ngp](https
 
 FOC-NeRF editting capability on Table-top dataset:
 
-![Scene Editting](https://github.com/user-attachments/assets/45fbcb0a-0414-433c-8f23-d8cf8b64b919)
+https://github.com/user-attachments/assets/45fbcb0a-0414-433c-8f23-d8cf8b64b919
 
 https://drive.google.com/drive/u/1/my-drive
 

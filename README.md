@@ -1,7 +1,7 @@
 # Fast Object Compositional Neural Radiance Fields (FOC-NeRF)
 This repository contains:
 * A pytorch implementation of Object-Level reconstruction with scene editting capability using a modified form of NeRF
-neural network inspired by Instant Neural Graphics Primitives[instant-ngp](https://github.com/NVlabs/instant-ngp).
+neural network inspired by Instant Neural Graphics Primitives [instant-ngp](https://github.com/NVlabs/instant-ngp).
 
 
 
@@ -24,8 +24,8 @@ conda activate foc_nerf
 
 # Install
 ```bash
-git clone --recursive https://github.com/ashawkey/torch-ngp.git
-cd FOC-NeRF
+git clone --recursive https://github.com/joejep/FOCNeRF.git
+cd FOCNeRF
 ```
 
 ### Install with pip

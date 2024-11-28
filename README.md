@@ -30,7 +30,7 @@ cd FOCNeRF
 
 ### Install with pip
 ```bash
-pip install -r requirements.txt
+pip install ultr
 
 # (optional) install the tcnn backbone
 pip install git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
@@ -39,7 +39,6 @@ pip install git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/to
 
 ### Additional pip installation
 ```bash
-pip install -r requirements.txt
 
 # (optional) install the tcnn backbone
 pip install git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch

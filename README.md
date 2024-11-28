@@ -9,7 +9,7 @@ FOC-NeRF editting capability on Table-top dataset:
 
 https://github.com/user-attachments/assets/45fbcb0a-0414-433c-8f23-d8cf8b64b919
 
-https://drive.google.com/drive/u/1/my-drive
+
 
 
 ### Other related projects

@@ -119,7 +119,7 @@ If you find this work useful, a citation will be appreciated via:
 @misc{foc-nerf,
     Author = {Jeffrey Eiyike, Elvis Gyaase, Vikas Dhiman},
     Year = {2024},
-    Note = {https://github.com/ashawkey/torch-ngp},
+    Note = {https://github.com/joejep/FOCNeRF},
     Title = {FOC-NeRF:Fast Object Compositional Neural Radiance Fields}
 }
 

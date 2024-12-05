@@ -30,7 +30,7 @@ cd FOCNeRF
 
 ### Install with pip
 ```bash
-pip install ultr
+pip install ultralytics==8.1
 
 # (optional) install the tcnn backbone
 pip install git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch

@@ -7,7 +7,8 @@ class _trunc_exp(Function):
     @custom_fwd(cast_inputs=torch.float32) # cast to float32
     def forward(ctx, x):
         ctx.save_for_backward(x)
-        return torch.exp(x)
+        # Clamp to avoid overflow in exp for large magnitude inputs
+        return torch.exp(x.clamp(-15, 15))
 
     @staticmethod
     @custom_bwd

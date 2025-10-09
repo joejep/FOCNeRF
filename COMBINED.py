@@ -418,7 +418,7 @@ if __name__ == '__main__':
             self.save_image(white_rgb_img, rgb_path_w)
             self.save_image(white_depth_img, depth_path_w)
             self.save_image(black_rgb_img, rgb_path_b)
-            self.save_image(white_depth_img, depth_path_b)
+            self.save_image(black_depth_img, depth_path_b)
             self.save_image(white_gt_img, gt_path_w)
             self.save_image(black_gt_img, gt_path_b)
             

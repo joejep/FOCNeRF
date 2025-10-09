@@ -1322,7 +1322,7 @@ class Trainer(object):
                     dist.all_gather(preds_list, preds)
                     preds = torch.cat(preds_list, dim=0)
 
-                    preds_depth_list = [torch.zeros._like(preds_depth).to(self.device) for _ in range(self.world_size)] # [[B, ...], [B, ...], ...]
+                    preds_depth_list = [torch.zeros_like(preds_depth).to(self.device) for _ in range(self.world_size)] # [[B, ...], [B, ...], ...]
                     dist.all_gather(preds_depth_list, preds_depth)
                     preds_depth = torch.cat(preds_depth_list, dim=0)
 

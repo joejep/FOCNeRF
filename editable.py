@@ -406,7 +406,7 @@ if __name__ == '__main__':
             self.frames["rgb_black"].append(np.asarray(black_rgb_img))
             self.save_image(white_depth_img, depth_path_w)
             self.save_image(black_rgb_img, rgb_path_b)
-            self.save_image(white_depth_img, depth_path_b)
+            self.save_image(black_depth_img, depth_path_b)
             self.save_image(white_gt_img, gt_path_w)
             # self.frames["gt_white"].append(np.asarray(white_gt_img))
             self.save_image(black_gt_img, gt_path_b)
